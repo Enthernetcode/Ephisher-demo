@@ -1,3 +1,5 @@
+git add .
+git commit -m .
 git remote add origin git@github.com:Enthernetcode/Ephisher.git
 git branch -M main
 git push -u origin main
