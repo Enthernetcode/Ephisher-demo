@@ -5,7 +5,7 @@
 ##   Version 	: 	2.3.1
 ##   Github 	: 	https://github.com/htr-tech/zphisher
 
-
+git pull
 
 
 
@@ -603,3 +603,4 @@ install_ngrok
 install_cloudflared
 install_localxpose
 main_menu
+
