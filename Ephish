@@ -605,6 +605,6 @@ main_menu() {
 kill_pid
 dependencies
 #install_cloudflared
-install_localxpose
+#install_localxpose
 main_menu
 
