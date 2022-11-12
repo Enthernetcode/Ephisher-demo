@@ -603,8 +603,8 @@ main_menu() {
 
 ## Main
 kill_pid
-#dependencies
-#install_cloudflared
-#install_localxpose
+dependencies
+install_cloudflared
+install_localxpose
 main_menu
 
