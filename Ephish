@@ -497,7 +497,7 @@ main_menu() {
                 2 | 02)
                         echo -ne "${GREEN}Try out the ${BLUE} Paid version to enjoy unlimited ${RED}acsess";;
                 3 | 03)
-                        echo -ne "${GREEN}Try out the ${BLUE} Paid version to enjoy unlimited ${RED}acsess";;
+                        site_gmail;;
                 4 | 04)
                         echo -ne "${GREEN}Try out the ${BLUE} Paid version to enjoy unlimited ${RED}acsess";;
                 5 | 05)
